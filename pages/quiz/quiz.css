@@ -206,7 +206,7 @@ main{
     body{
         background: var(--bg-desktop) var(--bg-color);
         background-size: cover;
-        background-repeat: no-repeat;
+        background-repeat: nor;
     }
     header{
         margin-block: 81px;
